@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Coca-Cola",
+        "subtitle": "Quantity: 26",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+1",
+        "price": 1.5
+    },
+    {
+        "id": 2,
+        "title": "Pepsi",
+        "subtitle": "Quantity: 36",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+2",
+        "price": 1.45
+    },
+    {
+        "id": 3,
+        "title": "Sprite",
+        "subtitle": "Quantity: 83",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+3",
+        "price": 1.4
+    },
+    {
+        "id": 4,
+        "title": "Fanta",
+        "subtitle": "Quantity: 49",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+4",
+        "price": 1.35
+    },
+    {
+        "id": 5,
+        "title": "Dr Pepper",
+        "subtitle": "Quantity: 100",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+5",
+        "price": 1.55
+    },
+    {
+        "id": 6,
+        "title": "Mountain Dew",
+        "subtitle": "Quantity: 35",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+6",
+        "price": 1.5
+    },
+    {
+        "id": 7,
+        "title": "7 Up",
+        "subtitle": "Quantity: 84",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+7",
+        "price": 1.4
+    },
+    {
+        "id": 8,
+        "title": "Mirinda",
+        "subtitle": "Quantity: 58",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+8",
+        "price": 1.3
+    },
+    {
+        "id": 9,
+        "title": "Barq's",
+        "subtitle": "Quantity: 14",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+9",
+        "price": 1.45
+    },
+    {
+        "id": 10,
+        "title": "A&W Root Beer",
+        "subtitle": "Quantity: 67",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+10",
+        "price": 1.6
+    },
+    {
+        "id": 11,
+        "title": "Sunkist",
+        "subtitle": "Quantity: 100",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+11",
+        "price": 1.35
+    },
+    {
+        "id": 12,
+        "title": "Schweppes",
+        "subtitle": "Quantity: 23",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+12",
+        "price": 1.5
+    }
+]
