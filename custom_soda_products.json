@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Coca-Cola",
+        "subtitle": "Quantity: 26",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+1",
+        "price": 1.5
+    },
+    {
+        "id": 2,
+        "title": "Pepsi",
+        "subtitle": "Quantity: 36",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+2",
+        "price": 1.45
+    },
+    {
+        "id": 3,
+        "title": "Sprite",
+        "subtitle": "Quantity: 83",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+3",
+        "price": 1.4
+    },
+    {
+        "id": 4,
+        "title": "Fanta",
+        "subtitle": "Quantity: 49",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+4",
+        "price": 1.35
+    },
+    {
+        "id": 5,
+        "title": "Dr Pepper",
+        "subtitle": "Quantity: 100",
+        "imageUrl": "https://via.placeholder.com/150?text=Product+5",
+        "price": 1.55
+    }
+]
